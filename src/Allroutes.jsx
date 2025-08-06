@@ -5,8 +5,6 @@ import ProductDetail from "./pages/ProductDetail";
 import Cart from "./pages/Cart";
 import MobilePage from "./pages/MobilesPage";
 import LoginPage from "./pages/LoginPage";
-import CategoryPage from "./components/CategoryPage";
-
 function AllRoutes() {
   return (
     <div>

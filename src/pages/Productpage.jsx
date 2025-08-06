@@ -383,7 +383,7 @@ const ProductPage = () => {
 
       <section className="reasons-to-shop">
         <div className="container">
-          <h2 className="section-heading">More reasons to shop. Here at Samsung</h2>
+          <h2 className="section-heading">More reasons to shop.. Here at Samsung</h2>
 
           <div className="reasons-grid">
             <div className="reason-card">

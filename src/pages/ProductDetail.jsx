@@ -89,7 +89,7 @@ function ProductDetail() {
         monthlyPrice,
       };
 
-      await axios.post("http://localhost:3000/cart", cartItem);
+      await axios.post("https://samsung-clone-be.onrender.com/cart", cartItem);
       alert("Product added to cart!");
     } catch (error) {
       console.error("Error adding to cart:", error);

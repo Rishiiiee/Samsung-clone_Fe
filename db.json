@@ -175,6 +175,32 @@
       "quantity": 1,
       "selectedStorage": "256 GB | 12 GB",
       "monthlyPrice": "₹16470.53/mo"
+    },
+    {
+      "id": "1754460679088",
+      "title": "Product",
+      "name": "Galaxy S25 Edge",
+      "imageUrl": "https://via.placeholder.com/300x300?text=Product+Image",
+      "image": "https://via.placeholder.com/300x300?text=Product+Image",
+      "price": "₹109999.00",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082683?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082673?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082674?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082675?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082676?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082677?$216_216_PNG$"
+      ],
+      "rating": "4.9 (281)",
+      "color": "Titanium Silver",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "emi": "No Cost EMI starts from ₹4583.29/month.",
+      "quantity": 1,
+      "selectedStorage": "256 GB | 12 GB",
+      "monthlyPrice": "₹16470.53/mo"
     }
   ],
   "mobiles": [
@@ -637,7 +663,8 @@
         "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669332?$216_216_PNG$"
       ]
     }
-  ],"tv": [
+  ],
+  "tv": [
     {
       "id": 1,
       "name": "Samsung 55″ QLED Q60D 4K Smart TV",

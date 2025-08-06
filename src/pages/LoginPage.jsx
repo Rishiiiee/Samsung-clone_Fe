@@ -27,9 +27,8 @@ function LoginPage() {
     setSuccess('');
 
     try {
-      if (isLogin) {
-        // Login wala part 
-        const response = await axios.get('http://localhost:3001/auth');
+      if (isLogin) { 
+        const response = await axios.get('https://samsung-clone-be.onrender.com/auth');
         const users = response.data;
         const user = users.find(u => u.email === email && u.password === password);
         
@@ -43,7 +42,7 @@ function LoginPage() {
           setError('Invalid email or password');
         }
       } else {
-        const checkResponse = await axios.get('http://localhost:3001/auth');
+        const checkResponse = await axios.get('https://samsung-clone-be.onrender.com/auth');
         const existingUser = checkResponse.data.find(u => u.email === email);
         
         if (existingUser) {
@@ -52,7 +51,7 @@ function LoginPage() {
         }
         
         const newUser = { email, password };
-        const registerResponse = await axios.post('http://localhost:3001/auth', newUser);
+        const registerResponse = await axios.post('https://samsung-clone-be.onrender.com/auth', newUser);
         setSuccess('Registration successful! Please login.');
         setIsLogin(true);
         setEmail('');

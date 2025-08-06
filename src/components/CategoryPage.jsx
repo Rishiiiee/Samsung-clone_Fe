@@ -15,27 +15,27 @@ const CategoryPage = () => {
         let endpoint;
         switch (category.toLowerCase()) { 
           case 'mobile':
-            endpoint = 'http://localhost:3000/allmobiles';
+            endpoint = 'https://samsung-clone-be.onrender.com/allmobiles';
             break;
           case 'tv':
           case 'tv&av': 
-            endpoint = 'http://localhost:3000/tv';
+            endpoint = 'https://samsung-clone-be.onrender.com/tv';
             break;
           case 'appliances':
-            endpoint = 'http://localhost:3000/appliances';
+            endpoint = 'https://samsung-clone-be.onrender.com/appliances';
             break;
           case 'display':
           case 'computing': 
-            endpoint = 'http://localhost:3000/display';
+            endpoint = 'https://samsung-clone-be.onrender.com/display';
             break;
           case 'accessories':
-            endpoint = 'http://localhost:3000/accessories';
+            endpoint = 'https://samsung-clone-be.onrender.com/accessories';
             break;
           case 'shop': 
-            endpoint = 'http://localhost:3000/allmobiles'; 
+            endpoint = 'https://samsung-clone-be.onrender.com/allmobiles'; 
             break;
           default:
-            endpoint = 'http://localhost:3000/allmobiles';
+            endpoint = 'https://samsung-clone-be.onrender.com/allmobiles';
         }
 
         const response = await axios.get(endpoint);

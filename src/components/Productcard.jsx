@@ -15,7 +15,7 @@ const ProductCards = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await axios.get('http://localhost:3000/allmobiles');
+        const response = await axios.get('https://samsung-clone-be.onrender.com/allmobiles');
         setProducts(response.data);
         setLoading(false);
       } catch (err) {

@@ -37,26 +37,26 @@ const ProductPage = () => {
       let endpoint;
       switch(currentCategory) {
         case 'mobile':
-          endpoint = 'http://localhost:3000/allmobiles';
+          endpoint = 'https://samsung-clone-be.onrender.com/allmobiles';
           break;
         case 'tv':
-          endpoint = 'http://localhost:3000/tv';
+          endpoint = 'https://samsung-clone-be.onrender.com/tv';
           break;
         case 'appliances':
-          endpoint = 'http://localhost:3000/appliances';
+          endpoint = 'https://samsung-clone-be.onrender.com/appliances';
           break;
         case 'computing':
-          endpoint = 'http://localhost:3000/display';
+          endpoint = 'https://samsung-clone-be.onrender.com/display';
           break;
         case 'accessories':
-          endpoint = 'http://localhost:3000/accessories';
+          endpoint = 'https://samsung-clone-be.onrender.com/accessories';
           break;
         case 'wearables':
-          endpoint = 'http://localhost:3000/accessories';
+          endpoint = 'https://samsung-clone-be.onrender.com/accessories';
           break;
         case 'all':
         default:
-          endpoint = 'http://localhost:3000/allmobiles';
+          endpoint = 'https://samsung-clone-be.onrender.com/allmobiles';
       }
 
       const productsRes = await fetch(endpoint);

@@ -12,7 +12,7 @@ function Cart() {
   const [voucherCode, setVoucherCode] = useState('');
 
   useEffect(() => {
-    axios.get('http://localhost:3000/cart') 
+    axios.get('https://samsung-clone-be.onrender.com/cart') 
       .then(response => {
         setCartItems(response.data);
         const total = response.data.reduce((sum, item) => {
@@ -29,7 +29,7 @@ function Cart() {
   }, []);
 
   const handleRemoveItem = (itemId) => {
-    axios.delete(`http://localhost:3000/cart/${itemId}`)
+    axios.delete(`https://samsung-clone-be.onrender.com/cart/${itemId}`)
       .then(() => {
         setCartItems(cartItems.filter(item => item.id !== itemId));
       })

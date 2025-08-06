@@ -1,0 +1,1080 @@
+{
+  "products": [
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082683?$200_200_PNG$",
+      "title": "Galaxy S25 Edge",
+      "id": "SM-S937BZSBINS",
+      "price": "₹ 109999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702948?$200_200_PNG$",
+      "title": "Galaxy S25 Ultra",
+      "id": "SM-S938BZTBINS",
+      "price": "₹ 117999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669170?$200_200_PNG$",
+      "title": "Galaxy S25+",
+      "id": "SM-S936BDBBINS",
+      "price": "₹ 99999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656310?$200_200_PNG$",
+      "title": "Galaxy S25",
+      "id": "SM-S931BZSCINS",
+      "price": "₹ 80999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702689?$200_200_PNG$",
+      "title": "Galaxy S25 Ultra (Special Colour)",
+      "id": "SM-S938BAKBINS",
+      "price": "₹ 117999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675163?$200_200_PNG$",
+      "title": "Galaxy S25 (Special Colour)",
+      "id": "SM-S931BZKCINS",
+      "price": "₹ 80999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757306?$200_200_PNG$",
+      "title": "Galaxy S24 FE",
+      "id": "SM-S721BLBBINS",
+      "price": "₹ 37999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572840?$200_200_PNG$",
+      "title": "Galaxy S24",
+      "id": "SM-S921BZYCINS",
+      "price": "₹ 52999.00"
+    },
+    {
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265914?$200_200_PNG$",
+      "title": "Galaxy S23",
+      "id": "SM-S911BZKBINS",
+      "price": "₹ 64999.00"
+    }
+  ],
+  "highlightProducts": [
+    {
+      "id": 1,
+      "name": "Galaxy M06 5G (4 GB Memory)",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/sm-m066bzkgins/gallery/in-galaxy-m06-5g-4-gb-memory-sm-m066bzkgins-thumb-545216700?$216_216_PNG$",
+      "price": "₹ 11499.00",
+      "save": "Save ₹1000.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 12499.00",
+      "link": "/in/smartphones/galaxy-m/galaxy-m06-5g-black-128gb-sm-m066bzkgins/"
+    },
+    {
+      "id": 2,
+      "name": "Galaxy A36 5G (8 GB Memory)",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/sm-a366ezajins/gallery/in-galaxy-a36-5g-sm-a366-539188-sm-a366ezajins-thumb-545215084?$216_216_PNG$",
+      "price": "₹ 30999.00",
+      "save": "Save ₹5000.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 35999.00",
+      "link": "/in/smartphones/galaxy-a/galaxy-a36-5g-awesome-white-128gb-sm-a366ezajins/"
+    },
+    {
+      "id": 3,
+      "name": "Soundbar 360W 3.1.2Ch Q Symphony with Upfiring Acoustic beam Speakers & wireless subwoofer HW-Q600C",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/hw-q600c-xl/gallery/in-q-series-soundbar-hw-q600c-hw-q600c-xl-thumb-537677127?$216_216_PNG$",
+      "price": "₹ 27990.00",
+      "save": "Save ₹13910.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 41900.00",
+      "link": "/in/audio-devices/soundbar/q600c-black-hw-q600c-xl/"
+    },
+    {
+      "id": 4,
+      "name": "Q-series Soundbar 360W 5.1.2 Ch. Q-Symphony with Wireless Dolby Atmos Q800D",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/hw-q800d-xl/gallery/in-q-series-soundbar-hw-q800d-hw-q800d-xl-thumb-541818223?$216_216_PNG$",
+      "price": "₹ 46990.00",
+      "save": "Save ₹19910.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 66900.00",
+      "link": "/in/audio-devices/soundbar/q800d-black-hw-q800d-xl/"
+    },
+    {
+      "id": 5,
+      "name": "Galaxy A26 5G (8 GB Memory)",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/sm-a266bzkkins/gallery/in-galaxy-a26-5g-sm-a266-sm-a266bzkkins-thumb-545323930?$216_216_PNG$",
+      "price": "₹ 22999.00",
+      "save": "Save ₹5000.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 27999.00",
+      "link": "/in/smartphones/galaxy-a/galaxy-a26-5g-black-128gb-sm-a266bzkkins/"
+    },
+    {
+      "id": 6,
+      "name": "Galaxy S24",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/sm-s921bzvbins/gallery/in-galaxy-s24-492654-492654-sm-s921bzvbins-thumb-541169494?$216_216_PNG$",
+      "price": "₹ 46999.00",
+      "save": "Save ₹28000.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 74999.00",
+      "link": "/in/smartphones/galaxy-s24/"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S24 FE",
+      "image": "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721bzkbins/gallery/in-galaxy-s24-fe-s721-sm-s721bzkbins-thumb-543757382?$216_216_PNG$",
+      "price": "₹ 37999.00",
+      "save": "Save ₹22000.00",
+      "mrp": "MRP (Inclusive of all taxes) ₹ 59999.00",
+      "link": "/in/smartphones/galaxy-s/galaxy-s24-fe-graphite-128gb-sm-s721bzkbins/"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1753009702976",
+      "title": "Product",
+      "name": "Galaxy S25 Ultra",
+      "imageUrl": "https://via.placeholder.com/300x300?text=Product+Image",
+      "image": "https://via.placeholder.com/300x300?text=Product+Image",
+      "price": "₹117999.00",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702948?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702943?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702944?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702945?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702929?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702930?$216_216_PNG$"
+      ],
+      "rating": "4.8 (26873)",
+      "color": "Titanium Gray",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "originalPrice": "₹129999.00",
+      "discount": "Save ₹12000.00",
+      "emi": "No Cost EMI starts from ₹9833.24/month.",
+      "quantity": 1,
+      "selectedStorage": "256 GB | 12 GB",
+      "monthlyPrice": "₹16470.53/mo"
+    },
+    {
+      "id": "1753009787791",
+      "title": "Product",
+      "name": "Galaxy S25+",
+      "imageUrl": "https://via.placeholder.com/300x300?text=Product+Image",
+      "image": "https://via.placeholder.com/300x300?text=Product+Image",
+      "price": "₹99999.00",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669170?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669160?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669161?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669162?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669163?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669164?$216_216_PNG$"
+      ],
+      "rating": "4.7 (1433)",
+      "color": "Navy",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "emi": "No Cost EMI starts from ₹7749.91/month.",
+      "quantity": 1,
+      "selectedStorage": "256 GB | 12 GB",
+      "monthlyPrice": "₹16470.53/mo"
+    }
+  ],
+  "mobiles": [
+    {
+      "name": "Galaxy S25 Edge",
+      "rating": "4.9 (281)",
+      "color": "Titanium Silver",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹109999.00",
+      "emi": "No Cost EMI starts from ₹4583.29/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082683?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082673?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082674?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082675?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082676?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082677?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25 Ultra",
+      "rating": "4.8 (26873)",
+      "color": "Titanium Gray",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "price": "₹117999.00",
+      "originalPrice": "₹129999.00",
+      "discount": "Save ₹12000.00",
+      "emi": "No Cost EMI starts from ₹9833.24/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702948?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702943?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702944?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702945?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702929?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702930?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25+",
+      "rating": "4.7 (1433)",
+      "color": "Navy",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹99999.00",
+      "emi": "No Cost EMI starts from ₹7749.91/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669170?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669160?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669161?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669162?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669163?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669164?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25",
+      "rating": "4.8 (8468)",
+      "color": "Silver Shadow",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹99999.00",
+      "emi": "No Cost EMI starts from ₹7749.91/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656310?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656300?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656301?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656302?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656303?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656304?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25 Ultra (Special Colour)",
+      "rating": "4.8 (26873)",
+      "color": "Titanium Jetblack",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "price": "₹117999.00",
+      "originalPrice": "₹129999.00",
+      "discount": "Save ₹12000.00",
+      "emi": "No Cost EMI starts from ₹9833.24/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702689?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702670?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702671?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702672?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702673?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702674?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25 (Special Colour)",
+      "rating": "4.8 (5576)",
+      "color": "Blueblack",
+      "storageOptions": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹80999.00",
+      "emi": "No Cost EMI starts from ₹6083.24/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675163?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675153?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675154?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675155?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675156?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675157?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S24 FE",
+      "rating": "4.6 (1108)",
+      "color": "Blue",
+      "storageOptions": [
+        "128 GB",
+        "256 GB"
+      ],
+      "price": "₹37999.00",
+      "originalPrice": "₹59999.00",
+      "discount": "Save ₹22000.00",
+      "emi": "No Cost EMI starts from ₹3999.88/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757306?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757302?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757299?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757296?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757297?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757298?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S24 Ultra",
+      "rating": "4.8 (8223)",
+      "color": "Titanium Yellow",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "price": "₹85999.00",
+      "originalPrice": "₹134999.00",
+      "savePrice": "₹49000.00",
+      "emi": "No Cost EMI starts from ₹7166.58/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573503?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573484?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573485?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573486?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573487?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573488?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S24",
+      "rating": "4.6 (3694)",
+      "color": "Amber Yellow",
+      "storageOptions": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹52999.00",
+      "originalPrice": "₹79999.00",
+      "savePrice": "₹27000.00",
+      "emi": "No Cost EMI starts from ₹5888.77/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572840?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572830?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572831?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572832?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572833?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572834?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S23",
+      "rating": "4.3 (743)",
+      "color": "Phantomblack",
+      "storageOptions": [
+        "128 GB",
+        "256 GB"
+      ],
+      "price": "₹64999.00",
+      "originalPrice": "₹89999.00",
+      "savePrice": "₹25000.00",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265914?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265904?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265905?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265906?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265907?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265908?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25+ (Special Colour)",
+      "rating": "4.7 (1367)",
+      "color": "Blueblack",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669338?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669328?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669329?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669330?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669331?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669332?$216_216_PNG$"
+      ]
+    }
+  ],
+  "auth": [
+    {
+      "email": "eve.holt@reqres.in",
+      "password": "Rishi@12",
+      "id": 1
+    },
+    {
+      "email": "rishishrivastav28@gmail.com",
+      "password": "RIshi@12",
+      "id": 2
+    }
+  ],
+  "allmobiles": [
+    {
+      "name": "Galaxy S25 Edge",
+      "rating": "4.9 (281)",
+      "color": "Titanium Silver",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹109999.00",
+      "emi": "No Cost EMI starts from ₹4583.29/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082683?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082673?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082674?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082675?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082676?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzsbins-thumb-546082677?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25 Ultra",
+      "rating": "4.8 (26873)",
+      "color": "Titanium Gray",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "price": "₹117999.00",
+      "originalPrice": "₹129999.00",
+      "discount": "Save ₹12000.00",
+      "emi": "No Cost EMI starts from ₹9833.24/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702948?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702943?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702944?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702945?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702929?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bztbins-thumb-544702930?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25+",
+      "rating": "4.7 (1433)",
+      "color": "Navy",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹99999.00",
+      "emi": "No Cost EMI starts from ₹7749.91/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669170?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669160?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669161?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669162?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669163?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbbins-thumb-544669164?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25",
+      "rating": "4.8 (8468)",
+      "color": "Silver Shadow",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹99999.00",
+      "emi": "No Cost EMI starts from ₹7749.91/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656310?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656300?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656301?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656302?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656303?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931bzscins-thumb-544656304?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25 Ultra (Special Colour)",
+      "rating": "4.8 (26873)",
+      "color": "Titanium Jetblack",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "price": "₹117999.00",
+      "originalPrice": "₹129999.00",
+      "emi": "No Cost EMI starts from ₹9833.24/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702689?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702670?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702671?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702672?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702673?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakbins-thumb-544702674?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25 (Special Colour)",
+      "rating": "4.8 (5576)",
+      "color": "Blueblack",
+      "storageOptions": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹80999.00",
+      "emi": "No Cost EMI starts from ₹6083.24/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675163?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675153?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675154?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675155?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675156?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkcins-thumb-544675157?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S24 FE",
+      "rating": "4.6 (1108)",
+      "color": "Blue",
+      "storageOptions": [
+        "128 GB",
+        "256 GB"
+      ],
+      "price": "₹37999.00",
+      "originalPrice": "₹59999.00",
+      "discount": "Save ₹22000.00",
+      "emi": "No Cost EMI starts from ₹3999.88/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757306?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757302?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757299?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757296?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757297?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757298?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S24 Ultra",
+      "rating": "4.8 (8223)",
+      "color": "Titanium Yellow",
+      "storageOptions": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "price": "₹85999.00",
+      "originalPrice": "₹134999.00",
+      "savePrice": "₹49000.00",
+      "emi": "No Cost EMI starts from ₹7166.58/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573503?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573484?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573485?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573486?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573487?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzycins-thumb-539573488?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S24",
+      "rating": "4.6 (3694)",
+      "color": "Amber Yellow",
+      "storageOptions": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "price": "₹52999.00",
+      "originalPrice": "₹79999.00",
+      "savePrice": "₹27000.00",
+      "emi": "No Cost EMI starts from ₹5888.77/month.",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572840?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572830?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572831?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572832?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572833?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-492654-sm-s921bzycins-thumb-539572834?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S23",
+      "rating": "4.3 (743)",
+      "color": "Phantomblack",
+      "storageOptions": [
+        "128 GB",
+        "256 GB"
+      ],
+      "price": "₹64999.00",
+      "originalPrice": "₹89999.00",
+      "savePrice": "₹25000.00",
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265914?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265904?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265905?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265906?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265907?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzkbins/gallery/in-galaxy-s23-s911-sm-s911bzkbins-thumb-535265908?$216_216_PNG$"
+      ]
+    },
+    {
+      "name": "Galaxy S25+ (Special Colour)",
+      "rating": "4.7 (1367)",
+      "color": "Blueblack",
+      "storageOptions": [
+        "256 GB",
+        "512 GB"
+      ],
+      "images": [
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669338?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669328?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669329?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669330?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669331?$216_216_PNG$",
+        "//images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-534090-sm-s936bzkbins-thumb-544669332?$216_216_PNG$"
+      ]
+    }
+  ],"tv": [
+    {
+      "id": 1,
+      "name": "Samsung 55″ QLED Q60D 4K Smart TV",
+      "price": 48990,
+      "mrp": 52990,
+      "rating": 4.7,
+      "reviews": 452,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/qa55q60daulxl/gallery/in-qled-q60d-qa55q60daulxl-539976106?$684_547_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Samsung 65″ Crystal 4K UHD Smart TV",
+      "price": 58990,
+      "mrp": 63990,
+      "rating": 4.5,
+      "reviews": 378,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ua65ue81afulxl/gallery/in-uhd-u8100f-ua65ue81afulxl-545970095?$684_547_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Samsung 50″ QLED 4K Q80C Smart TV",
+      "price": 74990,
+      "mrp": 79990,
+      "rating": 4.6,
+      "reviews": 510,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/qa98q80cakxxl/gallery/in-qled-98q80c-qa98q80cakxxl-536906370?$684_547_PNG$"
+    },
+    {
+      "id": 4,
+      "name": "Samsung 43″ Crystal Vision 4K Smart TV",
+      "price": 32990,
+      "mrp": 36990,
+      "rating": 4.4,
+      "reviews": 189,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ua43u8100fulxl/gallery/in-uhd-u8000f-542080-ua43u8100fulxl-545550237?$684_547_PNG$"
+    },
+    {
+      "id": 5,
+      "name": "Samsung 75″ Neo QLED 8K Smart TV",
+      "price": 379990,
+      "mrp": 399990,
+      "rating": 4.8,
+      "reviews": 62,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/qa75qn900fuxxl/gallery/in-qled-qn900f-544125-qa75qn900fuxxl-546639252?$684_547_PNG$"
+    },
+    {
+      "id": 6,
+      "name": "Samsung 32″ T4380 HD Ready Smart TV",
+      "price": 14490,
+      "mrp": 17990,
+      "rating": 4.3,
+      "reviews": 320,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ua32t4380akxxl/gallery/in-hd-t4310-428849-ua32t4380akxxl-537157418?$684_547_PNG$"
+    },
+    {
+      "id": 7,
+      "name": "Samsung 55″ Neo QLED 4K QN85C Smart TV",
+      "price": 124990,
+      "mrp": 134990,
+      "rating": 4.7,
+      "reviews": 91,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/qa55qn85caklxl/gallery/in-qled-qn85c-qa55qn85caklxl-535909576?$684_547_PNG$"
+    },
+    {
+      "id": 8,
+      "name": "Samsung 65″ The Frame QLED 4K Smart TV",
+      "price": 109990,
+      "mrp": 119990,
+      "rating": 4.6,
+      "reviews": 230,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/qa65ls03faulxl/gallery/in-the-frame-ls03f-qa65ls03faulxl-545382153?$684_547_PNG$"
+    },
+    {
+      "id": 9,
+      "name": "Samsung 43″ Smart Monitor M8 (TV + Monitor)",
+      "price": 49490,
+      "mrp": 54990,
+      "rating": 4.5,
+      "reviews": 137,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls32fm700uwxxl/gallery/in-smart-m7-32m70f-black-ls32fm700uwxxl-547960108?$684_547_PNG$"
+    },
+    {
+      "id": 10,
+      "name": "Samsung 43″ The Serif Lifestyle QLED TV",
+      "price": 89990,
+      "mrp": 94990,
+      "rating": 4.4,
+      "reviews": 118,
+      "img": "https://images.samsung.com/is/image/samsung/in-the-serif-ls01t-qa43ls01takxxl-268652128?$684_547_PNG$"
+    },
+    {
+      "id": 11,
+      "name": "Samsung 32″ Crystal 4K Vision Smart TV",
+      "price": 23990,
+      "mrp": 26990,
+      "rating": 4.2,
+      "reviews": 205,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ua32h4520fuxxl/gallery/in-hd-h4500-548524-ua32h4520fuxxl-546540769?$684_547_PNG$"
+    },
+    {
+      "id": 12,
+      "name": "Samsung 55″ OLED S95C 4K Smart TV",
+      "price": 184990,
+      "mrp": 199990,
+      "rating": 4.9,
+      "reviews": 49,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/qa55s95caklxl/gallery/in-oled-s95c-qa55s95caklxl-536392156?$684_547_PNG$"
+    }
+  ],
+  "appliances": [
+    {
+      "id": 1,
+      "name": "Samsung 256L 3 Star Inverter Frost Free Double Door Refrigerator",
+      "price": 27490,
+      "mrp": 31990,
+      "rating": 4.4,
+      "reviews": 586,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rt30c3733bx-hl/gallery/in-top-mount-freezer-convertible-freezer-rt30c3733bx-hl-541364519?$684_547_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Samsung 198L 5 Star Inverter Direct Cool Single Door Refrigerator",
+      "price": 15990,
+      "mrp": 18990,
+      "rating": 4.5,
+      "reviews": 742,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rr20c1724cr-hl/gallery/in-httpsamsungcominrefrigerators1-door-449527-rr20c1724cr-hl-535098203?$684_547_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Samsung 314L 2 Star Inverter Frost Free Double Door Refrigerator",
+      "price": 30990,
+      "mrp": 34990,
+      "rating": 4.3,
+      "reviews": 332,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rt34dg5a2bbxhl/gallery/in-top-mount-freezer-twin-cooling-plus-529471-rt34dg5a2bbxhl-544358017?$684_547_PNG$"
+    },
+    {
+      "id": 4,
+      "name": "Samsung 345L 3 Star Inverter Frost Free Double Door Refrigerator",
+      "price": 34990,
+      "mrp": 38990,
+      "rating": 4.6,
+      "reviews": 289,
+      "img": "https://images.samsung.com/is/image/samsung/in-top-mount-freezer-rt37t4513s8hl-rt37t4513s8-hl-fronttitanumsilver-205859044?$684_547_PNG$"
+    },
+    {
+      "id": 5,
+      "name": "Samsung 523L Frost Free Side-by-Side Refrigerator (Twin Cooling)",
+      "price": 69990,
+      "mrp": 79990,
+      "rating": 4.7,
+      "reviews": 157,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rs76cg8003s9hl/gallery/in-side-by-side-smart-conversion-rs76cg8003s9hl-534630761?$684_547_PNG$"
+    },
+    {
+      "id": 6,
+      "name": "Samsung 700L Convertible 5-in-1 French Door Refrigerator",
+      "price": 89990,
+      "mrp": 99990,
+      "rating": 4.8,
+      "reviews": 98,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rf70a967fb1-tl/gallery/in-rf9000ac-bsc-french-door-refrigerator-with-beverage-center-rf70a967fb1-tl-534268481?$684_547_PNG$"
+    },
+    {
+      "id": 7,
+      "name": "Samsung 183L 4 Star Inverter Direct Cool Single Door Refrigerator",
+      "price": 14490,
+      "mrp": 16990,
+      "rating": 4.4,
+      "reviews": 610,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rr20c1723s8-hl/gallery/in-httpsamsungcominrefrigerators1-door-449508-rr20c1723s8-hl-535095991?$684_547_PNG$"
+    },
+    {
+      "id": 8,
+      "name": "Samsung 275L 3 Star Frost Free Double Door Refrigerator",
+      "price": 28990,
+      "mrp": 31990,
+      "rating": 4.2,
+      "reviews": 278,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rt80f51c3bhl/gallery/in-bespoke-refrigerator-tmf-convertible-5in1-rt80f51c3bhl-546061065?$684_547_PNG$"
+    },
+    {
+      "id": 9,
+      "name": "Samsung 653L Side-by-Side Refrigerator with AI Energy Mode",
+      "price": 114990,
+      "mrp": 124990,
+      "rating": 4.6,
+      "reviews": 74,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rs78cg8543s9hl/gallery/in-side-by-side-smart-conversion-449598-rs78cg8543s9hl-thumb-535107896?$UX_EXT2_PNG$"
+    },
+    {
+      "id": 10,
+      "name": "Samsung 236L 2 Star Frost Free Double Door Refrigerator",
+      "price": 25990,
+      "mrp": 28990,
+      "rating": 4.3,
+      "reviews": 211,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rt28c3122cu-hl/gallery/in-ref-tmf-rt3000-449394-rt28c3122cu-hl-thumb-535085696?$UX_EXT2_PNG$"
+    },
+    {
+      "id": 11,
+      "name": "Samsung 465L Double Door Refrigerator with Digital Inverter",
+      "price": 52990,
+      "mrp": 57990,
+      "rating": 4.5,
+      "reviews": 134,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rt80f51c2fhl/gallery/in-bespoke-ai-refrigerator-tmf-convertible-5in1-rt80f51c2fhl-thumb-546061869?$UX_EXT2_PNG$"
+    },
+    {
+      "id": 12,
+      "name": "Samsung 230L 4 Star Inverter Direct Cool Single Door Refrigerator",
+      "price": 17490,
+      "mrp": 19990,
+      "rating": 4.4,
+      "reviews": 399,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/rr23d2h359u-hl/gallery/in-next-crown-door-and-handle-of-horizontal-design-492036-rr23d2h359u-hl-thumb-539528408?$UX_EXT2_PNG$"
+    }
+  ],
+  "display": [
+    {
+      "id": 1,
+      "name": "Samsung Smart Monitor M5 27 inch Full HD",
+      "price": 17499,
+      "mrp": 26999,
+      "rating": 4.5,
+      "reviews": 211,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls27dm500ewxxl/gallery/in-smart-m5-27m50d--32m50d-ls27dm500ewxxl-541957684?$684_547_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Samsung 24-inch IPS Monitor - Borderless Design",
+      "price": 9499,
+      "mrp": 12499,
+      "rating": 4.3,
+      "reviews": 145,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls24d300gawxxl/gallery/in-essential-s3-s30gd-ls24d300gawxxl-544499000?$684_547_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Curved LED Monitor 24 inch (C24F390FHW)",
+      "price": 10999,
+      "mrp": 14499,
+      "rating": 4.4,
+      "reviews": 362,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls24c360eawxxl/gallery/in-essential-s3-s36c-27inch-round-stand-456710-ls24c360eawxxl-536836503?$684_547_PNG$"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Smart Monitor M7 32 inch 4K UHD",
+      "price": 28999,
+      "mrp": 36999,
+      "rating": 4.6,
+      "reviews": 94,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls32fm700uwxxl/gallery/in-smart-m7-32m70f-black-ls32fm700uwxxl-547960108?$684_547_PNG$"
+    },
+    {
+      "id": 5,
+      "name": "Samsung 49-inch Super Ultra-Wide Dual G9 DQHD Curved Monitor",
+      "price": 149999,
+      "mrp": 189999,
+      "rating": 4.8,
+      "reviews": 47,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls49fg910ewxxl/gallery/in-odyssey-g9-g91f-ls49fg910ewxxl-545739856?$684_547_PNG$"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy Book3 Core i5 13th Gen 15.6-inch Laptop",
+      "price": 56990,
+      "mrp": 74990,
+      "rating": 4.5,
+      "reviews": 128,
+      "img": "https://www.samsung.com/in/computers/galaxy-book/galaxy-book3-360-13-3-inch-with-s-pen-i5-16gb-512gb-np730qfg-ka2in/"
+    },
+    {
+      "id": 7,
+      "name": "Samsung ViewFinity S6 27 inch QHD Monitor (IPS, 75Hz)",
+      "price": 18999,
+      "mrp": 22999,
+      "rating": 4.4,
+      "reviews": 83,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls27d604uawxxl/gallery/in-viewfinity-s6-24s60ud--27s60ud-32s60ud-ls27d604uawxxl-541956670?$684_547_PNG$"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Book4 Pro 360 16-inch AMOLED 3K Touch Laptop",
+      "price": 154990,
+      "mrp": 172990,
+      "rating": 4.6,
+      "reviews": 39,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/np960qgk-lg1in/gallery/in-galaxy-book-np960qgk-lg1in-front-gray-thumb-541800259?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Flat Monitor 22 inch FHD with HDMI & VGA",
+      "price": 7999,
+      "mrp": 9999,
+      "rating": 4.2,
+      "reviews": 119,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls27bm501ewxxl/gallery/in-smart-m5-27m501b-ls27bm501ewxxl-532331815?$684_547_PNG$"
+    },
+    {
+      "id": 10,
+      "name": "Samsung Galaxy Book3 360 13th Gen Core i7 13.3-inch Laptop",
+      "price": 99990,
+      "mrp": 114990,
+      "rating": 4.5,
+      "reviews": 58,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2302/gallery/in-galaxy-book3-360-13-3-inch-with-s-pen-np730-447651-np730qfg-ka1in-thumb-534939239?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 11,
+      "name": "Samsung 32 inch Odyssey G5 Gaming Monitor (WQHD, 165Hz)",
+      "price": 25999,
+      "mrp": 29999,
+      "rating": 4.7,
+      "reviews": 76,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls32dg500ewxxl/gallery/in-odyssey-g5-g50d-523471-ls32dg500ewxxl-543597008?$684_547_PNG$"
+    },
+    {
+      "id": 12,
+      "name": "Samsung 34 inch S6 Ultra WQHD Monitor (100Hz, USB-C)",
+      "price": 37999,
+      "mrp": 45999,
+      "rating": 4.6,
+      "reviews": 41,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ls34c650uawxxl/gallery/in-viewfinity-s6-34s65uc-ls34c650uawxxl-538041772?$684_547_PNG$"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy Buds2 Pro",
+      "price": 15999,
+      "mrp": 19999,
+      "rating": 4.6,
+      "reviews": 654,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-buds2-pro-r510-sm-r510nlvainu-thumb-533192231?$216_216_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Samsung 25W USB-C Super Fast Charger",
+      "price": 1349,
+      "mrp": 1799,
+      "rating": 4.4,
+      "reviews": 301,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t2510nbngin/gallery/in-25w-power-adapter-black-ep-t2510nbngin-ep-t2510nbngin-ep-t----xbngin-thumb-541854931?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy Watch Wireless Charger Dock",
+      "price": 2099,
+      "mrp": 2499,
+      "rating": 4.2,
+      "reviews": 122,
+      "img": "https://m.media-amazon.com/images/I/71zdfe6gHgL._SX466_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy Buds FE",
+      "price": 6999,
+      "mrp": 8999,
+      "rating": 4.3,
+      "reviews": 198,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-r400nzwains/gallery/in-galaxy-buds-fe-sm-r400nzwains-thumb-538435648?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Smart Keyboard Trio 500 (Bluetooth)",
+      "price": 3199,
+      "mrp": 3499,
+      "rating": 4.5,
+      "reviews": 87,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ei-t5600bbegin/gallery/in-galaxy-smarttag2-ei-t5600-ei-t5600bbegin-thumb-538343296?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Silicone Case with Strap for Galaxy Z Flip5",
+      "price": 3799,
+      "mrp": 4499,
+      "rating": 4.4,
+      "reviews": 61,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-z-flip7-qf766-ef-qf766ctegin-thumb-547355549?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Wireless Charger Duo Pad",
+      "price": 5499,
+      "mrp": 6999,
+      "rating": 4.3,
+      "reviews": 105,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-p5400bbegin/gallery/in-ep-p5400-ep-p5400bbegin-531902219?$684_547_PNG$"
+    },
+    {
+      "id": 8,
+      "name": "Samsung 45W USB-C Super Fast Charger 2.0",
+      "price": 2699,
+      "mrp": 2999,
+      "rating": 4.5,
+      "reviews": 213,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t4511nbngin/gallery/in-45w-power-adapter-ep-t4511-537088-ep-t4511nbngin-thumb-544968488?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Clear Case for Galaxy S24 Ultra",
+      "price": 1999,
+      "mrp": 2299,
+      "rating": 4.1,
+      "reviews": 89,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24ultra-xs928-ef-xs928ctegin-thumb-539283579?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 10,
+      "name": "Samsung Portable SSD T7 (1TB, USB 3.2)",
+      "price": 8699,
+      "mrp": 10499,
+      "rating": 4.8,
+      "reviews": 394,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/mu-pe1t0r-ww/gallery/in-portable-ssd-t7-shield-mu-pe1t0r-ww-532192727?$684_547_PNG$"
+    },
+    {
+      "id": 11,
+      "name": "Samsung 10000mAh Wireless Power Bank",
+      "price": 2699,
+      "mrp": 3499,
+      "rating": 4.3,
+      "reviews": 114,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/eb-u2510xuegin/gallery/in-wireless-battery-pack-10000mah-eb-u2510-eb-u2510xuegin-thumb-541527842?$UX_EXT1_PNG$"
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy Buds Live",
+      "price": 4999,
+      "mrp": 6999,
+      "rating": 4.2,
+      "reviews": 146,
+      "img": "https://images.samsung.com/is/image/samsung/in/galaxy-note20/gallery/in-galaxy-buds-live-r180-sm-r180nzkainu-frontmysticblack-thumb-275652065?$UX_EXT1_PNG$"
+    }
+  ]
+}

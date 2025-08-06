@@ -56,11 +56,11 @@ npm run dev
 
 ## 🌄 Screenshots
 
-| Home Page | Product page | Add-to-cart | 
+| Home Page  
 |-----------|----------------|-------------|
-|  |<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/ed86a2a6-d6df-4844-989a-5ef5bd9fc7be" /> <img width="1920" height="1080" alt="cart" src="https://github.com/user-attachments/assets/375a1b1a-0735-405a-ba7c-64b70854c89c" />
+|  |<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/ed86a2a6-d6df-4844-989a-5ef5bd9fc7be" />  Product page | <img width="1920" height="1080" alt="cart" src="https://github.com/user-attachments/assets/375a1b1a-0735-405a-ba7c-64b70854c89c" />
 
- | |<img width="1920" height="1080" alt="product" src="https://github.com/user-attachments/assets/34bef690-babc-44e9-82a6-d5fa3168265a" /><img width="1920" height="1080" alt="2025-08-06 (4)" src="https://github.com/user-attachments/assets/508a7244-f227-42da-af07-93e2ab418892" />
+ |Add-to-cart | |<img width="1920" height="1080" alt="product" src="https://github.com/user-attachments/assets/34bef690-babc-44e9-82a6-d5fa3168265a" /><img width="1920" height="1080" alt="2025-08-06 (4)" src="https://github.com/user-attachments/assets/508a7244-f227-42da-af07-93e2ab418892" />
 
 
 

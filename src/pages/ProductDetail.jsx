@@ -189,7 +189,7 @@ function ProductDetail() {
                 <div className="image-container">
                   <img
                     src={productImages[currentImageIndex]}
-                    alt={`${product.title || product.name} - View ${
+                    alt={`${product.title} - View ${
                       currentImageIndex + 1
                     }`}
                   />

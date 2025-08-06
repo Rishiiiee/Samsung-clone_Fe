@@ -28,7 +28,7 @@ const ProductPage = () => {
       setError(null);
       
       
-      const highlightsRes = await fetch('http://localhost:3000/highlightProducts');
+      const highlightsRes = await fetch('https://samsung-clone-be.onrender.com/highlightProducts');
       if (!highlightsRes.ok) throw new Error('Failed to fetch highlights');
       const highlightsData = await highlightsRes.json();
       setHighlightProducts(highlightsData);

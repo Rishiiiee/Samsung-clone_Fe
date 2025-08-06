@@ -62,9 +62,12 @@ npm run dev
 
  | |<img width="1920" height="1080" alt="product" src="https://github.com/user-attachments/assets/34bef690-babc-44e9-82a6-d5fa3168265a" /><img width="1920" height="1080" alt="2025-08-06 (4)" src="https://github.com/user-attachments/assets/508a7244-f227-42da-af07-93e2ab418892" />
 
+
+
+
 ## 🌐 Live Demo
 
-🛍️ Try the Live App(Frontend): [Visit Live Site]((https://samsung-clone-fe.vercel.app/shop))
+🛍️ Try the Live App(Frontend): [Visit Live Site](https://samsung-clone-fe.vercel.app/shop)
 
 ⚙️ Backend API: [Visit Live API](https://samsung-clone-be.onrender.com/)
 

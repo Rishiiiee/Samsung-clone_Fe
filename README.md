@@ -66,7 +66,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🛍️ Try the Live App(Frontend): [Visit Live Site](https://samsung-clone-fe.vercel.app/shop)
+🛍️ Try the Live App(Frontend): [Visit Live Site](https://samsung-clone-fe.vercel.app)
 
 ⚙️ Backend API: [Visit Live API](https://samsung-clone-be.onrender.com/)
 
